@@ -14,5 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('home');
+    $name = 'Pippo';
+    $subjects = ['Learn PHP','Learn Laravel','Learn Js','Learn VueJs','Learn React'];
+    return view('home', compact('name','subjects'));
 });
