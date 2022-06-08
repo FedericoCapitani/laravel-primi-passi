@@ -13,6 +13,7 @@
         .subjects{
             text-align: center;
             list-style: none;
+            padding-left: 0;
         }
         li > a {
             text-decoration: none;
@@ -24,7 +25,7 @@
 <body>
     
     <h1 class="title">Hello World! from {{ $name }} </h1>
-
+    <p class="title">Learn some new technologies</p>
     <ul class="subjects">
         @foreach ($subjects as $subject)
         <li> <a href="{{$subject}}">Learn {{$subject}} </a> </li>

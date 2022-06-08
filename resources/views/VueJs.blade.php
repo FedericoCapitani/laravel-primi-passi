@@ -7,7 +7,6 @@
     <title>Learn VueJs</title>
 </head>
 <body>
-    <a href="#">Home</a>
     <h1>Learn VueJs</h1>
     <p>
         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatem adipisci minus optio qui voluptate explicabo suscipit corporis quasi a sapiente repellendus, tempora aliquam corrupti possimus necessitatibus doloremque iste. Quia corrupti sit fugit laboriosam magni, earum dolorum ad obcaecati vitae at? Eveniet corporis cum dolor mollitia eos cupiditate consequuntur dolore delectus.
