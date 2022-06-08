@@ -15,6 +15,12 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     $name = 'Pippo';
-    $subjects = ['Learn PHP','Learn Laravel','Learn Js','Learn VueJs','Learn React'];
+    $subjects = ['PHP','Laravel','Js','VueJs','React'];
     return view('home', compact('name','subjects'));
 });
+
+Route::view('/PHP', 'PHP');
+Route::view('/Laravel', 'Laravel');
+Route::view('/Js', 'Js');
+Route::view('/VueJs', 'VueJs');
+Route::view('/React', 'React');

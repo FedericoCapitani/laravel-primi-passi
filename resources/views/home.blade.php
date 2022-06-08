@@ -14,6 +14,10 @@
             text-align: center;
             list-style: none;
         }
+        li > a {
+            text-decoration: none;
+            color: blue;
+        }
     </style>
 </head>
 
@@ -23,7 +27,7 @@
 
     <ul class="subjects">
         @foreach ($subjects as $subject)
-        <li> {{$subject}} </li>
+        <li> <a href="{{$subject}}">Learn {{$subject}} </a> </li>
         @endforeach
     </ul>
 
