@@ -8,6 +8,7 @@
 </head>
 <body>
     
+    <a href="/">home</a>
     <h1>Learn Laravel</h1>
     <p>
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam, vel et. Quidem corporis rerum ea maxime aliquid natus mollitia. Sit, consectetur. Minima nostrum dolor enim aspernatur quidem aliquam veritatis architecto deserunt exercitationem minus rerum nesciunt impedit, cumque recusandae illo? Est alias asperiores quasi, commodi deleniti inventore assumenda repellat cumque quae!

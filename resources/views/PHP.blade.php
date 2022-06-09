@@ -7,6 +7,8 @@
     <title>Learn PHP</title>
 </head>
 <body>
+    
+    <a href="/">home</a>
     <h1>Learn PHP</h1>
     <p> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic quae aut dolorem, unde soluta ipsam repellendus est cupiditate ex! Possimus, esse excepturi! Inventore qui dolorum illum voluptates corporis aspernatur in quidem impedit. Hic pariatur quisquam eum, perspiciatis commodi dolore officiis nemo voluptatibus deleniti, laborum quia nam iure veritatis, numquam velit! </p>
 </body>
